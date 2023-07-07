@@ -17,8 +17,8 @@
       "description": "An integer of consisting of your owner ID",
       "value": "1250450587"
     },
-    "APP_ID":{
-      "description": "your app id, take it from my.telegram.org",
+    "API_ID":{
+      "description": "your api id, take it from my.telegram.org",
       "value": ""
     },
     "DATABASE_URL": {
